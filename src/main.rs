@@ -1,3 +1,4 @@
+pub mod utils;
 
 mod day1part1; mod day1part2;
 mod day2part1; mod day2part2;
